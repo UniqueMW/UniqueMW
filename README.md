@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **React, Javascript, React, GSAP, Three.js, Tailwind, CSS, HTML and React Three Fiber**
 
-- 📫 How to reach me **clifflikovo@gmail.com**
+- 📫 How to reach me **clifflikovodeveloper@gmail.com**
 
 - ⚡ Fun fact **I love music**
 
